@@ -1,0 +1,8 @@
+D:\Indeed2\Phase-2\Daily Exercise\Day-7\CRUDOperations_DisconnectedModel\CRUDOperations_DisconnectedModel\bin\Debug\CRUDOperations_DisconnectedModel.exe.config
+D:\Indeed2\Phase-2\Daily Exercise\Day-7\CRUDOperations_DisconnectedModel\CRUDOperations_DisconnectedModel\bin\Debug\CRUDOperations_DisconnectedModel.exe
+D:\Indeed2\Phase-2\Daily Exercise\Day-7\CRUDOperations_DisconnectedModel\CRUDOperations_DisconnectedModel\bin\Debug\CRUDOperations_DisconnectedModel.pdb
+D:\Indeed2\Phase-2\Daily Exercise\Day-7\CRUDOperations_DisconnectedModel\CRUDOperations_DisconnectedModel\obj\Debug\CRUDOperations_DisconnectedModel.csproj.AssemblyReference.cache
+D:\Indeed2\Phase-2\Daily Exercise\Day-7\CRUDOperations_DisconnectedModel\CRUDOperations_DisconnectedModel\obj\Debug\CRUDOperations_DisconnectedModel.csproj.SuggestedBindingRedirects.cache
+D:\Indeed2\Phase-2\Daily Exercise\Day-7\CRUDOperations_DisconnectedModel\CRUDOperations_DisconnectedModel\obj\Debug\CRUDOperations_DisconnectedModel.csproj.CoreCompileInputs.cache
+D:\Indeed2\Phase-2\Daily Exercise\Day-7\CRUDOperations_DisconnectedModel\CRUDOperations_DisconnectedModel\obj\Debug\CRUDOperations_DisconnectedModel.exe
+D:\Indeed2\Phase-2\Daily Exercise\Day-7\CRUDOperations_DisconnectedModel\CRUDOperations_DisconnectedModel\obj\Debug\CRUDOperations_DisconnectedModel.pdb
